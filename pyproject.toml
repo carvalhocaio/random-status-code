@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{include = "random_status_code"}]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.7"
 flask = "^3.0.0"
 
 
