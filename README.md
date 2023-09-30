@@ -19,4 +19,4 @@ A simple application that returns a random status code.
 
 ### deploy
 
-- https://random-status-code.onrender.com
+Deploy made with https://render.com/
